@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+		ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:1:1-7:12
+		INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:2:5-67
+	android:name
+		ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:2:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:3:5-79
+	android:name
+		ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:3:22-76
+application
+ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:4:5-6:19
+service#com.datami.smi.SmiIntentService
+ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:5:9-67
+	android:name
+		ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:5:18-64
+uses-sdk
+INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+		ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+		INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+		ADDED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+		INJECTED from E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml

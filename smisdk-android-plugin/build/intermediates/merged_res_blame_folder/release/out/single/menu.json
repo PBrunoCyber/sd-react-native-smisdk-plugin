@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.datami.smisdk_plugin.smisdk-android-plugin-merged_res-20:/menu/example_menu2.xml",
+        "source": "com.datami.smisdk_plugin.smisdk-android-plugin-core-1.7.0-10:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.datami.smisdk_plugin.smisdk-android-plugin-merged_res-20:/menu/example_menu.xml",
+        "source": "com.datami.smisdk_plugin.smisdk-android-plugin-core-1.7.0-10:/menu/example_menu.xml"
+    }
+]

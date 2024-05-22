@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.datami.smisdk_plugin.smisdk-android-plugin-merged_res-20:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.datami.smisdk_plugin.smisdk-android-plugin-appcompat-1.4.1-1:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.datami.smisdk_plugin.smisdk-android-plugin-merged_res-20:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.datami.smisdk_plugin.smisdk-android-plugin-appcompat-1.4.1-1:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

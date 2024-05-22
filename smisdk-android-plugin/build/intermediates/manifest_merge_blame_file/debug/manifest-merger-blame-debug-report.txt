@@ -1,0 +1,22 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.datami.smisdk_plugin" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:2:5-67
+7-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:2:22-64
+8    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+8-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:3:5-79
+8-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:3:22-76
+9
+10    <application>
+10-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:4:5-6:19
+11        <service android:name="com.datami.smi.SmiIntentService" />
+11-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:5:9-67
+11-->E:\codigos\node_modules\react-native-smisdk-plugin\smisdk-android-plugin\src\main\AndroidManifest.xml:5:18-64
+12    </application>
+13
+14</manifest>
